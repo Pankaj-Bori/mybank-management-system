@@ -105,6 +105,9 @@ Solving these helped me understand **real project design decisions**.
 
 ## ▶️ How to Run the Project
 
+*Live demo
+https://mybank-management-system.vercel.app/
+
 ```bash
 npm install
 npm run dev
