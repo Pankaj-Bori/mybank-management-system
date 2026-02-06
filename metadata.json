@@ -1,0 +1,5 @@
+{
+  "name": "MyBank Management System",
+  "description": "A high-performance banking application focusing on core account management. Built with OOP principles and Hash Map data structures for efficient account lookup.",
+  "requestFramePermissions": []
+}
